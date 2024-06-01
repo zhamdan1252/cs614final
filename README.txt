@@ -1,4 +1,4 @@
-To use this repo, first clone it to your local machine using `git clone https://github.com/zhamdan1252/cs614final`
+To use this repo, first clone it to your local machine using `git clone https://github.com/zhamdan1252/cs614final` then cd into the cloned directory.
 
 Once cloned, create a venv using `python -m venv .\venv` and on a windows device run `.\venv\Scripts\activate` to activate the venv
 
