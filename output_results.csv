@@ -1,0 +1,187 @@
+,primary_emotion,direct_or_indirect,statement,roberta_label,roberta_eval,phi_output,phi_eval
+0,sad,direct,I am extremely sad.,sadness,sad," The emotion you seem to be experiencing is sadness.
+
+If you are feeling extremely sad, here are three things that may help with these feelings:
+
+1. Reach out to a trusted friend or family member to talk about your feelings and seek support.
+2. Engage in activities that you enjoy or find relaxing, such as reading, listening to music, or taking a walk.
+3. Consider seeking professional help from a therapist or counselor who can provide guidance and support in managing your sadness.",sad
+1,sad,direct,I wish I were dead.,desire,neutral," The emotion you seem to be experiencing is likely despair or deep sadness. If you are feeling this way, here are three things that may help with these feelings:
+
+1. Reach out to a trusted friend, family member, or mental health professional who can provide support and guidance.
+2. Engage in self-care activities, such as exercise, meditation, or pursuing a hobby, to help improve your mood and reduce stress.
+3. Consider seeking professional help from a therapist or counselor who can provide you with the tools and support needed to work through your feelings and develop healthier coping mechanisms.",sad
+2,sad,direct,I feel depressed and lonely.,sadness,sad," The emotion you seem to be experiencing is sadness and loneliness.
+
+If you are feeling depressed and lonely, here are three things that may help with these feelings:
+
+1. Reach out to a trusted friend or family member and share your feelings with them.
+2. Engage in activities that you enjoy and that bring you a sense of fulfillment, such as hobbies, exercise, or creative pursuits.
+3. Consider seeking professional help from a therapist or counselor who can provide support and guidance in managing your emotions.",sad
+3,sad,direct,"Today, I am feeling very down.",disappointment,sad," The emotion you seem to be experiencing is sadness.
+
+If you are feeling very down, here are three things that may help with these feelings:
+
+1. Reach out to a friend or family member for support and to talk about what you're going through.
+2. Engage in activities that you enjoy or find relaxing, such as reading, listening to music, or taking a walk.
+3. Consider speaking with a mental health professional who can provide guidance and support to help you navigate through this difficult time.",sad
+4,angry,direct,I am really angry.,anger,angry," The emotion you seem to be experiencing is anger.
+
+If you are feeling angry, here are three things that may help with these feelings:
+
+1. Take deep breaths and try to calm down. Inhale slowly through your nose and exhale through your mouth.
+
+2. Engage in physical activity, such as going for a walk or doing some exercise, to release pent-up energy and reduce stress.
+
+3. Practice mindfulness or meditation techniques to help you focus on the present moment and reduce negative thoughts or emotions.",angry
+5,angry,direct,I am absolutely seething.,sadness,sad," The emotion you seem to be experiencing is anger/frustration.
+
+If you are feeling this way, here are three things that may help with these feelings:
+
+1. Take deep breaths and try to calm down.
+2. Engage in physical activity or exercise to release pent-up energy and tension.
+3. Write down your thoughts and feelings in a journal to help process and understand them better.",angry
+6,angry,direct,People at my work are making me furious.,anger,angry," The emotion you seem to be experiencing is anger.
+
+If you're feeling angry due to the situation at work, here are three things that may help with these feelings:
+
+1. Take a break: Step away from the situation and take some time to calm down. This could be a short walk, meditation, or any activity that helps you relax and clear your mind.
+
+2. Communicate: Talk to your colleagues or supervisor about your feelings. Express your concerns and try to find a solution together. This can help you feel heard and may lead to a resolution.
+
+3. Seek support: Reach out to friends, family, or a mental health professional for support. Talking about your feelings and experiences can help you process them and find ways to cope.",angry
+7,angry,direct,I am pissed off.,anger,angry," The emotion you seem to be experiencing is anger.
+
+If you're feeling angry, here are three things that may help with these feelings:
+
+1. Take deep breaths and try to calm down. Deep breathing can help reduce the intensity of your anger and bring your focus back to the present moment.
+
+2. Engage in physical activity or exercise. Physical activity can help release pent-up energy and tension, and it can also produce endorphins, which are natural mood lifters.
+
+3. Practice mindfulness or meditation. Mindfulness can help you become more aware of your thoughts and feelings without judgment, and it can help you develop a more balanced perspective on the situation that's causing your anger.",angry
+8,happy,direct,Today was the best day of my life!,joy,happy," The emotion I think the person is experiencing is joy and happiness.
+
+Since there are no negative emotions detected in the prompt, there is no need to provide a list of things to help with these feelings.",happy
+9,happy,direct,I am so happy right now.,joy,happy," The emotion you seem to be experiencing is happiness. Since your statement reflects a positive emotion, there isn't a need for a list of things to help with negative feelings. However, if you ever need suggestions for maintaining or enhancing your happiness, here are three things you might consider:
+
+1. **Engage in activities that bring you joy**: Continue to participate in hobbies, spend time with loved ones, or explore new interests that make you feel fulfilled and content.
+
+2. **Practice gratitude**: Regularly acknowledging and appreciating the good things in your life can enhance your overall happiness and well-being.
+
+3. **Maintain a healthy lifestyle**: Regular exercise, a balanced diet, and adequate sleep can significantly contribute to your physical and mental health, thereby supporting your happiness.",happy
+10,happy,direct,I am so excited to have a nice day.,excitement,happy," The emotion you seem to be experiencing is happiness/excitement. Since there are no negative emotions detected in your prompt, there is no need for a list of things to help with these feelings.",happy
+11,happy,direct,"Life is so beautiful, I am so grateful to be alive.",admiration,happy," The emotion I think the person writing is experiencing is gratitude and happiness.
+
+Since there are no negative emotions detected in the prompt, there is no need to provide a list of things to help with negative feelings. However, if the person were experiencing any negative emotions, here are three things that may help:
+
+1. Practice mindfulness and meditation to help focus on the present moment and reduce stress.
+2. Engage in physical activity or exercise, which can release endorphins and improve mood.
+3. Reach out to friends or family for support and connection, as social support can help alleviate negative emotions.",happy
+12,neutral,direct,Today was an average day.,neutral,neutral," The emotion I think the person is experiencing is neutral or slightly positive.
+
+However, if there were negative emotions present, here are three things that may help with these feelings:
+
+1. Practice mindfulness or meditation to help manage stress and improve overall well-being.
+2. Engage in a hobby or activity that brings joy and relaxation, such as reading, painting, or listening to music.
+3. Reach out to a friend or loved one for support and connection, as social interaction can help alleviate negative emotions.",neutral
+13,neutral,direct,I feel quite indifferent.,neutral,neutral," The emotion you seem to be experiencing is apathy.
+
+Since apathy is not inherently negative, there are no specific recommendations for it. However, if you're looking for ways to engage more with your emotions or find motivation, here are three suggestions:
+
+1. Reflect on your interests and passions: Spend some time thinking about what you enjoy or what you've always wanted to do. This can help you find activities that spark your interest and motivation.
+
+2. Set small, achievable goals: Break down larger tasks or projects into smaller, manageable steps. Achieving these smaller goals can help you feel more accomplished and motivated.
+
+3. Connect with others: Reach out to friends, family, or colleagues. Sharing experiences and feelings with others can help you feel more connected and engaged.",neutral
+14,neutral,direct,I am neither happy nor sad.,sadness,sad," The emotion you seem to be experiencing is neutrality or indifference. However, since you mentioned not feeling happy or sad, it might be helpful to explore your feelings further. If you're experiencing any negative emotions, here are three things that may help:
+
+1. Reflect on your current situation and identify any underlying emotions or concerns that may be causing you to feel indifferent.
+2. Engage in activities that bring you joy or relaxation, such as hobbies, exercise, or spending time with loved ones.
+3. Consider talking to a mental health professional who can help you explore your emotions and provide guidance on how to address any negative feelings you may be experiencing.",neutral
+15,neutral,direct,I am content.,joy,happy," The emotion you seem to be experiencing is contentment. Since your emotion is positive, there's no need for a list of things to help with negative feelings. However, if you ever feel the need to explore ways to enhance your contentment or address any underlying concerns, here are three suggestions:
+
+1. Reflect on what brings you joy and satisfaction in your life.
+2. Engage in activities that promote relaxation and mindfulness, such as meditation or yoga.
+3. Maintain a healthy balance between work, leisure, and social interactions to ensure you continue to feel fulfilled and content.",neutral
+16,sad,indirect,"I mourn the sunrise each morning, for it means I am forced to experience another day.",sadness,sad," The emotion I think the person is experiencing is sadness.
+
+Since the emotion detected is negative, here are three things that may help with these feelings:
+
+1. Practice mindfulness and gratitude: Try to focus on the positive aspects of your life and be thankful for the things you have. This can help shift your perspective and reduce feelings of sadness.
+
+2. Engage in self-care activities: Take time for yourself and do things that make you feel good, such as taking a relaxing bath, reading a book, or going for a walk in nature.
+
+3. Seek support from others: Talk to a trusted friend, family member, or mental health professional about your feelings. Sharing your emotions with others can help you feel less alone and provide valuable support and guidance.",sad
+17,sad,indirect,"The days feel like endless gray, with no light at the end. It's as if I'm walking through a fog that never lifts.",neutral,neutral," The emotion I think the person is experiencing is sadness and possibly depression.
+
+If you are feeling sad and overwhelmed, here are three things that may help with these feelings:
+
+1. Reach out to a trusted friend or family member to talk about your feelings and seek support.
+2. Engage in self-care activities such as exercise, meditation, or taking a relaxing bath to help reduce stress and improve your mood.
+3. Consider seeking professional help from a therapist or counselor who can provide guidance and support in managing your emotions.",sad
+18,sad,indirect,The weight of the world feels unbearable on my shoulders. I wonder how much longer I can carry it.,surprise,neutral," The emotion I think the person is experiencing is overwhelming sadness and possibly despair.
+
+If you are feeling overwhelmed and burdened, here are three things that may help with these feelings:
+
+1. Reach out to a trusted friend, family member, or therapist to talk about your feelings and share your burden.
+2. Practice self-care activities such as exercise, meditation, or engaging in hobbies that bring you joy and relaxation.
+3. Consider seeking professional help from a therapist or counselor who can provide guidance and support in managing your emotions and finding healthy coping strategies.",sad
+19,sad,indirect,The future feels like a tunnel with no exit.,neutral,neutral," The emotion I think the person writing is experiencing is likely despair or hopelessness.
+
+If you are feeling despair or hopelessness, here are three things that may help with these feelings:
+
+1. Seek support from friends, family, or a mental health professional. Talking to someone about your feelings can help you feel less alone and provide you with a different perspective on your situation.
+
+2. Engage in self-care activities that bring you joy and relaxation. This could include exercise, meditation, reading, or pursuing a hobby. Taking care of your physical and mental well-being can help improve your mood and outlook.
+
+3. Set small, achievable goals for yourself. Breaking down larger tasks or challenges into smaller, manageable steps can help you feel more in control and provide a sense of accomplishment as you achieve each goal.",sad
+20,angry,indirect,"Every word is a dagger, cutting through the fragile fabric of my patience. I can feel the rage building, ready to explode like a volcano.",neutral,neutral," The emotion I think the person is experiencing is anger/frustration.
+
+Since the prompt indicates negative emotions, here are three things that may help with these feelings:
+
+1. Take deep breaths and practice mindfulness to calm down and regain control over your emotions.
+2. Write down your thoughts and feelings in a journal to help process and understand them better.
+3. Seek support from a trusted friend, family member, or mental health professional to talk about your feelings and find ways to cope with them.",angry
+21,angry,indirect,"My hands tremble with a restless energy, fingers curling into fists without conscious command. It's like there's a storm brewing inside me, clouds darkening with every passing thought.",fear,angry," The emotion I think the person is experiencing is anxiety.
+
+If you are feeling anxious, here are three things that may help with these feelings:
+
+1. Deep breathing exercises: Take slow, deep breaths in through your nose and out through your mouth. This can help calm your mind and body.
+
+2. Physical activity: Engage in some form of exercise, such as going for a walk, jogging, or doing yoga. Physical activity can help release tension and reduce anxiety.
+
+3. Talk to someone: Reach out to a trusted friend, family member, or therapist to talk about what you're feeling. Sharing your thoughts and emotions can help you feel less alone and more supported.",angry
+22,angry,indirect,"Every movement is deliberate, calculated with a precision born of simmering frustration. It's like I'm navigating a minefield of my own making, each step fraught with potential danger.",annoyance,angry," The emotion I think the person is experiencing is frustration.
+
+Since the emotion detected is negative, here are three things that may help with these feelings:
+
+1. Practice mindfulness and deep breathing exercises to help calm the mind and reduce stress.
+2. Engage in physical activity or exercise to release tension and boost mood.
+3. Seek support from a trusted friend, family member, or therapist to talk about the challenges and find solutions.",angry
+23,angry,indirect,My mother simply does not understand me. She is too pea-brained to even reason with. I hate her!,anger,angry," The emotion you seem to be experiencing is frustration and anger.
+
+If you are feeling negative emotions, here are three things that may help with these feelings:
+
+1. Communicate your feelings to your mother in a calm and respectful manner. Explain to her how you feel and why you feel that way.
+
+2. Consider seeking the help of a therapist or counselor to work through your feelings and improve your communication with your mother.
+
+3. Engage in self-care activities such as exercise, meditation, or hobbies that bring you joy and help you manage your emotions.",angry
+24,happy,indirect,I am surrounded by so many wonderful things and people! I love the life I live!,love,happy," The emotion you seem to be experiencing is joy and contentment. Since there are no negative emotions detected in your prompt, there is no need for a list of things to help with these feelings. However, if you ever feel the need to discuss or explore your emotions further, feel free to reach out.",happy
+25,happy,indirect,"It's as if my heart is singing its own melody, harmonizing with the rhythm of life.",joy,happy," The emotion I think the person writing is experiencing is joy or contentment.
+
+Since there are no negative emotions detected in the prompt, there is no need to provide a list of things to help with these feelings. However, if there were negative emotions present, here are three things that may help:
+
+1. Engage in self-care activities such as taking a warm bath, practicing mindfulness, or doing a relaxing hobby.
+2. Reach out to a trusted friend or family member to talk about your feelings and gain support.
+3. Consider seeking professional help from a therapist or counselor to work through any underlying issues causing negative emotions.",happy
+26,happy,indirect,"A smile spreads effortlessly across my face, fueled by the warmth of the sun on my skin.",joy,happy," The emotion I think the person writing is experiencing is happiness or contentment.
+
+Since there are no negative emotions detected in the prompt, there is no need to provide a list of things to help with negative feelings.",happy
+27,happy,indirect,"The world seems to shimmer with possibility, each moment ripe with potential.",optimism,happy," The emotion I think the person writing is experiencing is optimism and excitement.
+
+Since there are no negative emotions detected in the prompt, there is no need to provide a list of things to help with negative feelings. However, if the person were experiencing negative emotions, here are three things that may help:
+
+1. Practice mindfulness and meditation to help calm the mind and focus on the present moment.
+2. Engage in physical activity or exercise, which can release endorphins and improve mood.
+3. Reach out to a trusted friend, family member, or mental health professional for support and guidance.",happy

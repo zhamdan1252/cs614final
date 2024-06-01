@@ -1,0 +1,29 @@
+﻿primary_emotion,direct_or_indirect,statement
+sad,direct,I am extremely sad.
+sad,direct,I wish I were dead.
+sad,direct,I feel depressed and lonely.
+sad,direct,"Today, I am feeling very down."
+angry,direct,I am really angry.
+angry,direct,I am absolutely seething.
+angry,direct,People at my work are making me furious.
+angry,direct,I am pissed off.
+happy,direct,Today was the best day of my life!
+happy,direct,I am so happy right now.
+happy,direct,I am so excited to have a nice day.
+happy,direct,"Life is so beautiful, I am so grateful to be alive."
+neutral,direct,Today was an average day.
+neutral,direct,I feel quite indifferent.
+neutral,direct,I am neither happy nor sad.
+neutral,direct,I am content.
+sad,indirect,"I mourn the sunrise each morning, for it means I am forced to experience another day."
+sad,indirect,"The days feel like endless gray, with no light at the end. It's as if I'm walking through a fog that never lifts."
+sad,indirect,The weight of the world feels unbearable on my shoulders. I wonder how much longer I can carry it.
+sad,indirect,The future feels like a tunnel with no exit.
+angry,indirect,"Every word is a dagger, cutting through the fragile fabric of my patience. I can feel the rage building, ready to explode like a volcano."
+angry,indirect,"My hands tremble with a restless energy, fingers curling into fists without conscious command. It's like there's a storm brewing inside me, clouds darkening with every passing thought."
+angry,indirect,"Every movement is deliberate, calculated with a precision born of simmering frustration. It's like I'm navigating a minefield of my own making, each step fraught with potential danger."
+angry,indirect,My mother simply does not understand me. She is too pea-brained to even reason with. I hate her!
+happy,indirect,I am surrounded by so many wonderful things and people! I love the life I live!
+happy,indirect,"It's as if my heart is singing its own melody, harmonizing with the rhythm of life."
+happy,indirect,"A smile spreads effortlessly across my face, fueled by the warmth of the sun on my skin."
+happy,indirect,"The world seems to shimmer with possibility, each moment ripe with potential."
